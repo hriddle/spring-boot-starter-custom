@@ -1,0 +1,4 @@
+
+   ${AnsiBackground.BRIGHT_YELLOW}${AnsiColor.BRIGHT_BLACK} Step 1. CREATE CUSTOM BOOT BANNER. ${AnsiBackground.DEFAULT} (patorjk.com/software/taag)
+   ${AnsiBackground.BRIGHT_YELLOW}${AnsiColor.BRIGHT_BLACK} Step 2. ? ${AnsiBackground.DEFAULT}
+   ${AnsiBackground.BRIGHT_YELLOW}${AnsiColor.BRIGHT_BLACK} Step 3. PROFIT ${AnsiBackground.DEFAULT}
